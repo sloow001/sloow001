@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![SloowGitHub stats](https://github-readme-stats.vercel.app/api?username=sloow001&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sloow001&layout=compact)](https://github.com/sloow001)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sloow001&layout=compact)](https://github.com/sloow001?tab=repositories)
