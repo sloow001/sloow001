@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![Streaming](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCgHrDK28rJO9JM7YwA7Imkg)
 
 ![SloowGitHub stats](https://github-readme-stats.vercel.app/api?username=sloow001&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sloow001&layout=compact)](https://github.com/sloow001/github-readme-stats)
