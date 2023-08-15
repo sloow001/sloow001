@@ -1,4 +1,6 @@
-###  👋 hi, im sloow!
+### 👋 hi, im sloow!
+### 🎮 i make some games for fun!
+### 📚 currently studying web development..
 
 <!--
 **sloow001/sloow001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
