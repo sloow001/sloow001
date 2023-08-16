@@ -1,24 +1,11 @@
 ### 👋 hi, im sloow!
-### 🎮 i make some games for fun!
-### 📚 currently studying web development..
 
-<!--
-**sloow001/sloow001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently developing game just for fun!
+- 🌱 I’m currently learning web devlopment, specifically front end
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Streaming](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCgHrDK28rJO9JM7YwA7Imkg)
-
-![SloowGitHub stats](https://github-readme-stats.vercel.app/api?username=sloow001&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sloow001&layout=compact)](https://github.com/sloow001?tab=repositories)
+<div>
+  <a href="https://github.com/sloow001"></a>
+  <img  height="100em" src="https://github-readme-stats.vercel.app/api?username=sloow001&show_icons=true&theme=dracula&include_all=true&count_private=true"/>
+  <img height="100em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sloow001&layout=compact&langs_count=168&theme=dracula"/>
+</div>
