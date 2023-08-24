@@ -18,7 +18,7 @@
 </div>
 
 ##
-### 🛠 Languages i use
+### 🛠 tools i use i use
 <div style="display: inline-block">
   <img align="center" alt="SlooW-LUA" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
   <img align="center" alt="SlooW-HTML" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
