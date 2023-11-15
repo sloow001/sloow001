@@ -1,27 +1,23 @@
 ### 👋 hi, im sloow!
 
-- 🔭 Currently developing game just for fun!
-- 🌱 I’m currently learning web devlopment, specifically front end
+- 🔭 i’m Currently working on a secret game 👀
+- 🌱 I’m currently learning web devlopment, haxe and python
+- ⚡ Fun fact: like my nickname, I'm really too slow for things
 
-### 🌍 Social midia
-<div>
-  <a href="https://twitter.com/SlooWdev001" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-</div>
+You can see more of me on [Itch.io](https://sloow001.itch.io) and [Gamejolt](https://gamejolt.com/@sloow001)
 
-##
+### 👨‍💻 Languages
+![Lua](https://img.shields.io/badge/-Lua-blue?style=flat&logo=lua&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-549FDE?style=flat&logo=css3&logoColor=white)
+![Haxe](https://img.shields.io/badge/Haxe-EA8220.svg?style=flat&logo=Haxe&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
 
-<div>
-  <a href="https://github.com/sloow001"></a>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=sloow001&show_icons=true&theme=dracula&include_all=true&count_private=true"/>
-  <img height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sloow001&layout=compact&langs_count=168&theme=dracula"/>
-</div>
-
-##
-### 🛠 tools i use
-<div style="display: inline-block">
-  <img align="center" alt="SlooW-LUA" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
-  <img align="center" alt="SlooW-HTML" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="SlooW-CSS" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="SlooW-CSS" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</div>
+<br/>
+<p align="left">
+  <a href="#">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sloow001&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sloow001&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
