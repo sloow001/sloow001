@@ -1,7 +1,7 @@
 ### 👋 hi, i'm sloow!
 
 - 🎮 game developer focused on personal and learning projects
-- 🌱 currently studying C++ and Python, with interest in systems and game development
+- 📚 currently studying C++ and Python, with interest in systems and game development
 - ⚡ fun fact: like my nickname, i'm really too slow for things
 
 [Wishlist my game on steam!](https://store.steampowered.com/app/3326300/Inside_Byte_Captulo_1/)
