@@ -1,7 +1,7 @@
-### 👋 hi, i'm sloow!
+### 👋 hi, i'm Miguel (aka sloow)!
 
-- 🎮 game developer focused on personal and learning projects.
-- 📚 currently studying C++, Java (Spring Boot) and python, with interest in systems and game development.
+- 🎮 Game developer focused on personal and learning projects.
+- 📚 Currently building a career in Software Engineering, studying Java (Spring Boot), while also pursuing a passion for Game Development with C++ and Unreal Engine.
 
 [Wishlist my game on steam!](https://store.steampowered.com/app/3326300/Inside_Byte_Captulo_1/)
 
