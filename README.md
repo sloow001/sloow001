@@ -5,8 +5,10 @@
 
 [Wishlist my game on steam!](https://store.steampowered.com/app/3326300/Inside_Byte_Captulo_1/)
 
+---
+
 ### 👨‍💻 🛠️ Languages & Technologies
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,lua,spring,windows,github,vscode,unrealengine&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,lua,spring,windows,github,unrealengine&perline=10)](https://skillicons.dev)
 
 <br/> 
 <p align="left">
