@@ -1,7 +1,7 @@
 ### 👋 hi, i'm sloow!
 
-- 🎮 game developer focused on personal and learning projects
-- 📚 currently studying C++ and Python, with interest in systems and game development
+- 🎮 game developer focused on personal and learning projects.
+- 📚 currently studying C++, Java (Spring Boot) and python, with interest in systems and game development.
 
 [Wishlist my game on steam!](https://store.steampowered.com/app/3326300/Inside_Byte_Captulo_1/)
 
