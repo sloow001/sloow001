@@ -1,12 +1,12 @@
 ### 👋 Hi, I'm Miguel (aka sloow)!
 
-<p>👨‍💻 Technical Support & Operations at <a href="https://www.ujji.io" target="blank_"><b>UJJI AI</b>.</p>
+<p>👨‍💻 Developer at <a href="https://www.ujji.io" target="blank_"><b>UJJI AI</b>.</p>
 
 <p>📚 Currently building a career in <b>Software Engineering</b>.</p>
 
-<p>☕ Focused on Backend Development using <b>Java & Spring Boot</b>.</p>
+<p>☕ Focused on Backend Development using Java & Spring Boot.</p>
 
-<p>☁️ Exploring Cloud Architecture and actively learning <b>AWS & GCP</b> integrations.</p>
+<p>☁️ Exploring Cloud Architecture and actively learning AWS & GCP integrations.</p>
 
 <p>🎮 Indie Game Developer. Creator of <a href="https://store.steampowered.com/app/3326300/Inside_Byte_Captulo_1" target="_blank">Inside Byte</a> (Wishlist on Steam!).</p>
 
