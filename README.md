@@ -14,7 +14,7 @@
 
 ### 👨‍💻 Languages & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,lua,spring,mysql,unrealengine&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,lua,spring,mysql,react,unrealengine&perline=10)](https://skillicons.dev)
 
 <br/> 
 
